@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6n0131/v1
 canonical_location: https://kanripo.org/bkk/KR6n0131/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 八識規矩補註
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6n0131_000.yaml, hash: 'sha256:f6cff6417a2bed047a2f4fdacf35146cf5e45ff6810f398b5e54ced83367dba1'}
-  - {seq: 1, filename: KR6n0131_001.yaml, hash: 'sha256:b31042600558bc7dc29e590f404489d55fffd9ee4a65b61a73ba1848edfcd40c'}
-  - {seq: 2, filename: KR6n0131_002.yaml, hash: 'sha256:33de452642381dabfd68b0e0c37ac0fbac519405df345db704083e6cd2752bd1'}
+  - {seq: 0, filename: KR6n0131_000.yaml, hash: 'sha256:9248fd99e66a741694f4be711cc8731df093eb53c0bc67568449d7447ef831e9'}
+  - {seq: 1, filename: KR6n0131_001.yaml, hash: 'sha256:2cbce2d3e3c1b877f2e2babc0a1a5a2737ed528ab44d4f5d4f92ca6d9a5fb423'}
+  - {seq: 2, filename: KR6n0131_002.yaml, hash: 'sha256:b81b018423caaf54b3821891f7125a6dc9e46f432b4957c0bee68899f40ec0e5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6n0131_000.markers.yaml, hash: 'sha256:2e19a9a97a06a7d656d90defa354b6c0b915d079c963457864ba51a9797ac3f0'}
-  - {seq: 1, role: markers, filename: assets/KR6n0131_001.markers.yaml, hash: 'sha256:b7f005bda8685f291d13589b774db35161cf6e14e2a1b5595a72f46e2aa76fd7'}
-  - {seq: 2, role: markers, filename: assets/KR6n0131_002.markers.yaml, hash: 'sha256:9a01d58327677d3b97827de6f63f656ad654fb450c86eab06323a818c40e1952'}
+  - {seq: 0, role: markers, filename: assets/KR6n0131_000.markers.yaml, hash: 'sha256:bcf66929a9028e512ef851e8bd7dbe5e12cd51b14fe87aee36e17983f07e20e5'}
+  - {seq: 1, role: markers, filename: assets/KR6n0131_001.markers.yaml, hash: 'sha256:d7fe37a2cfe1185aee03e3cbd0c29e0a5291c69f5101c84247365b252d1fc9a6'}
+  - {seq: 2, role: markers, filename: assets/KR6n0131_002.markers.yaml, hash: 'sha256:f5e1228c82ad9dd872fbcda839cf53500de9c5aeb7175f6792297c6e2c3421f1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -69,4 +69,7 @@ table_of_contents:
   label: 六離合釋法式
   type: mulu
   level: 1
-hash: sha256:5ae05367030e95d8b2ccd3e10924a4279f3138ae1585801b903eebc15ab3e2d3
+hash: sha256:c31be892febe793b5788f2f1213ed7c5a905643bcfc410b472f920ffd232cdaf
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
